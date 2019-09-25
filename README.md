@@ -1,9 +1,6 @@
 # E05a-Animation
 
-We will begin to explore keyboard and mouse control in a Python Arcade program.
+Read main1 and main2 and understood the code quite well.
 
-When you are done, main1.py should contain the code on [http://arcade.academy/examples/move_mouse.html#move-mouse](http://arcade.academy/examples/move_mouse.html#move-mouse). Play with the code until you feel like you understand what is going on. Comment any uncommented line; feel free to ask for help!
-
-main2.py should contain the code on [http://arcade.academy/examples/move_keyboard.html#move-keyboard](http://arcade.academy/examples/move_keyboard.html#move-keyboard). Play with the code until you feel like you understand what is going on. Comment any uncommented line; feel free to ask for help!
-
-For extra credit, you could create a main3.py that contains the code on [http://arcade.academy/examples/sprite_move_animation.html#sprite-move-animation](http://arcade.academy/examples/sprite_move_animation.html#sprite-move-animation). Download sprite assets for the player and coins and figure out how to make your character walk left and right.
+was having trouble applying a sprite in main3 for ectra credit but after figuring that out in class I used goku and it was fun
+I am still confused as I was chnaging characterscale but the size of the player was not decreasing
